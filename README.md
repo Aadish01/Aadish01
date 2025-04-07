@@ -6,10 +6,9 @@ I'm Blockchan developer, graduate from IET DAVV, Indore. I'm driven by a curiosi
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-
+- 🔭 I did my Bachelor's of engineering in Electronics and Instrumentation from IET DAVV, Indore
+- 📝 Learnt React and Tailwind, created multiple responsive landing pages  
+- 🌐 Currently exploring Web3 ecosystem 
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,solidity,rust,react,tailwind,html,css,postman)](https://skillicons.dev)
@@ -20,12 +19,6 @@ I'm Blockchan developer, graduate from IET DAVV, Indore. I'm driven by a curiosi
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 
 
 ## 📬 Get in Touch
