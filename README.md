@@ -1,38 +1,35 @@
 # 👋 Hi, I'm Aadish
 
-- 🔭 Completed my Bachelor's in Engineering from IET DAVV, Indore.
+- 🎓 Bachelor's in Engineering from IET DAVV, Indore.
+- 💻 Worked as a **Full-Stack Engineer** for 15+ months — built and maintained multiple products using modern frameworks.
+- 🌐 Currently a **Blockchain Developer** with **2+ years** of experience in:
+  - Cross-chain solutions, DeFi platforms, and DApps
+  - Data indexers, NFT platforms, smart contract audits
 
-- 📝 Worked as a <b>Full-Stack Engineer</b> for over 15 months. Gained expertise in various frameworks and contributed to the development of multiple products.
-
-- 🌐 Transitioned into the Web3 ecosystem and working as a <b>Blockchain Developer</b> for <b>2+</b> years. Experience includes: 
-  - Cross-Chain solutions, DeFi, Data Indexer, DApps
-  - Data Aggregators, NFTs, Smart Contract Audits
-
-- 🚀 Currently exploring advanced areas in <b>blockchain</b> and expanding my knowledge.
+- 🚀 Passionate about exploring advanced blockchain concepts and continuously expanding my expertise.
 
 ![Aadish's Stats](https://github-readme-stats.vercel.app/api?username=Aadish01&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
+---
 
-## 🚀 Tech Stack 
+## 🛠 Tech Stack
 
-#### Languages:
-- Solidity
-- Javascript/Typescript
-- Go-lang
-- Python | C++
+### Languages
+- **Solidity**, **JavaScript/TypeScript**, **Go**, **Python**, **C++**
 
-#### Frameworks:
-- Hardhat, Foundry
-- ExpressJS, ReactJS, NestJS
+### Frameworks & Libraries
+- **Hardhat**, **Foundry**
+- **ExpressJS**, **ReactJS**, **NestJS**
 
-#### Softwares and Tools:
-- Docker, Kubernetes, CI/CD, AWS
-- Git, Github, GitLab, BitBucket 
-- Tenderly, Ganache, Etherscan, MetaMask
-- VScode, Sublime, Vim, Remix
-- Node, Postman, Swagger
+### Tools & Platforms
+- **Docker**, **Kubernetes**, **CI/CD**, **AWS**
+- **Git**, **GitHub**, **GitLab**, **Bitbucket**
+- **Tenderly**, **Ganache**, **Etherscan**, **MetaMask**
+- **VS Code**, **Remix**, **Postman**, **Swagger**
 
+---
 
-## 📬 Get in Touch
+## 📬 Let's Connect
 
-- Thanks for stopping by! Let's connect on [Twitter](https://x.com/aadish55) | [LinkedIn](https://linkedin.com/in/aadish0101/)
+Thanks for stopping by!  
+Feel free to reach out on [Twitter](https://x.com/aadish55) or [LinkedIn](https://linkedin.com/in/aadish0101/)
