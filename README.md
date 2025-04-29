@@ -1,29 +1,38 @@
-# Hi, I'm Aadish 👋
+# 👋 Hi, I'm Aadish
 
-I'm Blockchan developer, graduate from IET DAVV, Indore. I'm driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+- 🔭 Completed my Bachelor's in Engineering from IET DAVV, Indore.
+
+- 📝 Worked as a <b>Full-Stack Engineer</b> for over 15 months. Gained expertise in various frameworks and contributed to the development of multiple products.
+
+- 🌐 Transitioned into the Web3 ecosystem and working as a <b>Blockchain Developer</b> for <b>2+</b> years. Experience includes: 
+  - Cross-Chain solutions, DeFi, Data Indexer, DApps
+  - Data Aggregators, NFTs, Smart Contract Audits
+
+- 🚀 Currently exploring advanced areas in <b>blockchain</b> and expanding my knowledge.
 
 ![Aadish's Stats](https://github-readme-stats.vercel.app/api?username=Aadish01&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-## 🚀 About Me
 
-- 🔭 I did my Bachelor's of engineering in Electronics and Instrumentation from IET DAVV, Indore
-- 📝 Learnt React and Tailwind, created multiple responsive landing pages  
-- 🌐 Currently exploring Web3 ecosystem 
+## 🚀 Tech Stack 
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,solidity,rust,react,tailwind,html,css,postman)](https://skillicons.dev)
+#### Languages:
+- Solidity
+- Javascript/Typescript
+- Go-lang
+- Python | C++
 
-## 🌱 Currently Exploring
+#### Frameworks:
+- Hardhat, Foundry
+- ExpressJS, ReactJS, NestJS
 
-- 🚀 Learning Web3 
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+#### Softwares and Tools:
+- Docker, Kubernetes, CI/CD, AWS
+- Git, Github, GitLab, BitBucket 
+- Tenderly, Ganache, Etherscan, MetaMask
+- VScode, Sublime, Vim, Remix
+- Node, Postman, Swagger
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://x.com/aadish55) 
-- Connect with me on [LinkedIn](https://linkedin.com/in/aadish0101/)
-
-Thanks for stopping by! Let's connect. 🚀
+- Thanks for stopping by! Let's connect on [Twitter](https://x.com/aadish55) | [LinkedIn](https://linkedin.com/in/aadish0101/)
