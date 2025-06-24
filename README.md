@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Aadish
 
 - 🎓 Bachelor's in Engineering from IET DAVV, Indore.
-- 💻 Worked as a **Full-Stack Engineer** for 10+ months — built and maintained multiple products using modern frameworks.
-- 🌐 Currently a **Blockchain Developer** with **2+ years** of experience in:
+- 💻 Worked as a **Full-Stack Engineer** for 6+ months — built and maintained multiple products using modern frameworks.
+- 🌐 Currently a **Blockchain Developer** with **1+ year** of experience in:
   - Cross-chain solutions, DeFi platforms, and DApps
   - Data indexers, NFT platforms, smart contract audits
 
