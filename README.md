@@ -1,35 +1,51 @@
 # 👋 Hi, I'm Aadish
 
-- 🎓 Bachelor's in Engineering from IET DAVV, Indore.
-- 💻 Worked as a **Full-Stack Engineer** for 6+ months — built and maintained multiple products using modern frameworks.
-- 🌐 Currently a **Blockchain Developer** with **1+ year** of experience in:
-  - Cross-chain solutions, DeFi platforms, and DApps
-  - Data indexers, NFT platforms, smart contract audits
+- 🎓 **Bachelor’s in Engineering** (Electronics & Instrumentation, Minor in CS) from **IET DAVV, Indore**.
+- 💻 **Backend Engineer** with strong experience in **Rust** and high-performance distributed systems.
+- 🌐 **Blockchain Engineer** with **3+ years** of experience in:
+  - Cross-chain bridges & interoperability infrastructure
+  - DeFi protocols (AMMs, lending, leverage, flash loans)
+  - Smart contracts, on-chain governance, and NFT standards
+  - Blockchain data indexers and scalable backend APIs
 
-- 🚀 Passionate about exploring advanced blockchain concepts and continuously expanding my expertise.
-
-![Aadish's Stats](https://github-readme-stats.vercel.app/api?username=Aadish01&theme=dark&show_icons=true&hide_border=true&count_private=true)
+- 🚀 Passionate about building **secure, scalable, and gas-efficient blockchain systems**, with a strong focus on production reliability and DevOps best practices.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-- **Solidity**, **JavaScript/TypeScript**, **Go**, **Python**, **C++**
+- **Solidity**, **Rust**, **TypeScript/JavaScript**, **Python**, **Go**, **C++**
+
+### Blockchain & Protocols
+- **Ethereum**, **Polygon**, **Optimism**, **Bitcoin**, **Ripple**
+- **Substrate**, **IPFS**, **USDT**
+- **AMMs**, **Lending Protocols**, **Flash Loans**, **Cross-chain Bridges**
 
 ### Frameworks & Libraries
-- **Hardhat**, **Foundry**
-- **ExpressJS**, **ReactJS**, **NestJS**
+- **Hardhat**, **Foundry**, **Truffle**
+- **Node.js**, **NestJS**, **Express**
+- **React**, **Django**, **Ruby on Rails**
+- **Actix Web**, **Axum**, **Tokio**
 
 ### Tools & Platforms
-- **Docker**, **Kubernetes**, **CI/CD**, **AWS**
+- **Docker**, **Kubernetes**, **CI/CD**
+- **AWS**, **GCP**, **IBM Cloud**
 - **Git**, **GitHub**, **GitLab**, **Bitbucket**
-- **Tenderly**, **Ganache**, **Etherscan**, **MetaMask**
-- **VS Code**, **Remix**, **Postman**, **Swagger**
+- **Tenderly**, **Slither**, **OpenZeppelin**, **Defender**
+- **Ganache**, **Remix**, **Etherscan**, **MetaMask**
+- **Postman**, **Swagger**, **JIRA**
+
+### Databases
+- **PostgreSQL**, **MongoDB**, **SQLite**
 
 ---
 
 ## 📬 Let's Connect
 
 Thanks for stopping by!  
-Feel free to reach out on [Twitter](https://x.com/aadish55) or [LinkedIn](https://linkedin.com/in/aadish0101/)
+Feel free to connect with me on:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aadish0101)
+- 🐙 [GitHub](https://github.com/Aadish01)
+- ✉️ Email: aadish.dev01@gmail.com
